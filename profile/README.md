@@ -24,7 +24,7 @@
 
 MK ScorpioSec builds open-source security tooling at the intersection of **AI automation**, **offensive security**, and **regulatory compliance**. Every tool released has been validated on real-world engagements.
 
-We operate a fully air-gapped, AI-native security platform powered by local LLMs, autonomous agents, and orchestration pipelines — no cloud dependency, no data exfiltration risk.
+I operate a fully air-gapped, AI-native security platform powered by local LLMs, autonomous agents, and orchestration pipelines — no cloud dependency, no data exfiltration risk.
 
 ---
 
@@ -78,7 +78,7 @@ We operate a fully air-gapped, AI-native security platform powered by local LLMs
 
 ## Security Policy
 
-Responsible disclosure via [GitHub Security Advisories](https://github.com/mk-scorpiosec/.github/security/advisories). We respond within 48 hours and follow coordinated disclosure.
+Responsible disclosure via [GitHub Security Advisories](https://github.com/mk-scorpiosec/.github/security/advisories). I respond within 48 hours and follow coordinated disclosure.
 
 ---
 
