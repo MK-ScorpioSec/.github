@@ -10,7 +10,7 @@
 
 **AI-Native Security Operations**
 
-*Where adversarial thinking meets autonomous AI*
+*I don't hunt threats. I am the threat.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MK_ScorpioSec-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/company/mk-scorpiosec)
 [![Telegram](https://img.shields.io/badge/Telegram-@mkscorpiosec__bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/mkscorpiosec_bot)
