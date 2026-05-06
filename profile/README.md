@@ -14,6 +14,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MK_ScorpioSec-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/company/mk-scorpiosec)
 [![Telegram](https://img.shields.io/badge/Telegram-@mkscorpiosec__bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/mkscorpiosec_bot)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Business-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5491166470166)
 [![License](https://img.shields.io/badge/License-Apache_2.0-D62828?style=flat-square)](https://www.apache.org/licenses/LICENSE-2.0)
 
 </div>
