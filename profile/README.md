@@ -43,11 +43,7 @@ I operate a fully air-gapped, AI-native security platform powered by local LLMs,
 
 ## Open Source Tools
 
-| Tool | Description | Status |
-|------|-------------|--------|
-| [pq-audit](https://github.com/mk-scorpiosec/pq-audit) | Post-Quantum Holistic Security Audit — 9 layers, NIST FIPS 203/204/205 | `active` |
-| [mcp-scanner](https://github.com/mk-scorpiosec/mcp-scanner) | MCP server security scanner — CVE check, auth audit, tool poisoning detection | `active` |
-| [research](https://github.com/mk-scorpiosec/research) | IaC security research — TerraGoat gap analysis, 169 undocumented findings | `active` |
+COMING SOON
 
 ---
 
